@@ -9,11 +9,11 @@ import (
 )
 
 func main() {
-	get("blacklist_full.yaml", "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/refs/heads/main/gfwlist2domain/blacklist_full.txt")
-	get("whitelist_full.yaml", "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/refs/heads/main/gfwlist2domain/whitelist_full.txt")
+	getDomain("blacklist_full.yaml", "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/refs/heads/main/gfwlist2domain/blacklist_full.txt")
+	getDomain("whitelist_full.yaml", "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/refs/heads/main/gfwlist2domain/whitelist_full.txt")
 }
 
-func get(file string, url string) {
+func getDomain(file string, url string) {
 	if res, err := http.Get(url); err == nil {
 		defer res.Body.Close()
 		scanner := bufio.NewScanner(res.Body)
