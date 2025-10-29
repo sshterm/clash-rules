@@ -26,13 +26,8 @@ func getDomain(file string, url string) {
 			data.Payload = append(data.Payload, "+."+line)
 		}
 		if d, err := yaml.Marshal(data); err == nil {
-
 			os.WriteFile(file, d, 0644)
-
 		}
-		// if data, err := io.ReadAll(res.Body); err == nil {
-
-		// }
 	}
 }
 
