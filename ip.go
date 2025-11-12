@@ -10,12 +10,12 @@ import (
 )
 
 func main() {
-	getIP()
+	githubIP()
 }
 
 var ip map[string][]string
 
-func getIP() {
+func githubIP() {
 	var data Data
 	if res, err := http.Get("https://api.github.com/meta"); err == nil {
 		defer res.Body.Close()
