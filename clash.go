@@ -29,7 +29,7 @@ func getDomain(file, file2, name, url string) {
 			data.Payload = append(data.Payload, "+."+line)
 			domain = append(domain, fmt.Sprintf("nameserver /%s/%s", line, name))
 		}
-		data.Payload = append(data.Payload, "+."+"chocolatey.org")
+		//data.Payload = append(data.Payload, "+."+"chocolatey.org")
 
 		if d, err := yaml.Marshal(data); err == nil {
 			os.WriteFile(file, d, 0644)
