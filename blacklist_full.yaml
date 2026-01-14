@@ -2044,7 +2044,9 @@ payload:
     - +.anti1984.com
     - +.antichristendom.com
     - +.anticipate.ac.uk
+    - +.antigravity-pa.googleapis.com
     - +.antigravity.google
+    - +.antigravity.googleapis.com
     - +.antiquity.ac.uk
     - +.antislavery.ac.uk
     - +.antislaverylaw.ac.uk
@@ -5432,6 +5434,7 @@ payload:
     - +.brotli.org
     - +.brourou.com
     - +.browser.kagi.com
+    - +.browser.run
     - +.brox-coll.ac.uk
     - +.broxtowe.ac.uk
     - +.brucewang.net
@@ -6400,6 +6403,7 @@ payload:
     - +.cfas.ac.uk
     - +.cfblob.com
     - +.cfd-tv.com
+    - +.cfdata.org
     - +.cfdesign.com
     - +.cfhks.org.hk
     - +.cfl.re
@@ -6978,11 +6982,13 @@ payload:
     - +.cloud.dify.ai
     - +.cloud.mail.ru
     - +.cloud.oracle.com
+    - +.cloudaicompanion.googleapis.com
     - +.cloudapp.net
     - +.cloudappsecurity.com
     - +.cloudburstresearch.com
     - +.cloudc.one
     - +.cloudchoose.com
+    - +.cloudcode-pa.googleapis.com
     - +.cloudcone.com
     - +.cloudcone.net
     - +.cloudconvert.com
@@ -6994,26 +7000,34 @@ payload:
     - +.cloudflare-gateway.com
     - +.cloudflare-ipfs.com
     - +.cloudflare-quic.com
+    - +.cloudflare-terms-of-service-abuse.com
     - +.cloudflare.com
+    - +.cloudflare.dev
     - +.cloudflare.net
     - +.cloudflare.tv
     - +.cloudflareaccess.com
     - +.cloudflareapps.com
     - +.cloudflarebolt.com
+    - +.cloudflarebrowser.com
+    - +.cloudflarechallenge.com
     - +.cloudflareclient.com
+    - +.cloudflarecp.com
     - +.cloudflareinsights.com
     - +.cloudflareok.com
     - +.cloudflarepartners.com
     - +.cloudflareportal.com
     - +.cloudflarepreview.com
     - +.cloudflareregistrar.com
+    - +.cloudflareresearch.com
     - +.cloudflareresolve.com
     - +.cloudflaressl.com
     - +.cloudflarestatus.com
     - +.cloudflarestorage.com
     - +.cloudflarestream.com
+    - +.cloudflaresupport.com
     - +.cloudflaretest.com
     - +.cloudflarewarp.com
+    - +.cloudflareworkers.com
     - +.cloudfront.com
     - +.cloudfront.net
     - +.cloudfunctions.net
@@ -8040,6 +8054,7 @@ payload:
     - +.dagfs.com
     - +.daidostup.ru
     - +.daiichibank.co.jp
+    - +.daily-cloudcode-pa.googleapis.com
     - +.dailybasis.com
     - +.dailym.ai
     - +.dailymail.co.uk
@@ -8690,6 +8705,7 @@ payload:
     - +.dilcdn.com
     - +.dilstoncollege.ac.uk
     - +.dingchin.com.tw
+    - +.dinopoloclub.com
     - +.dinotube.com
     - +.dipity.com
     - +.dippam.ac.uk
@@ -10160,6 +10176,7 @@ payload:
     - +.enca.com
     - +.encoretvb.com
     - +.encrypt.me
+    - +.encryptedsni.com
     - +.encuentroscasualesoecuador.com
     - +.encyclopedia.com
     - +.enema-porn.com
@@ -10507,6 +10524,7 @@ payload:
     - +.espncdn.com
     - +.espndotcom.tt.omtrdc.net
     - +.espnqa.com
+    - +.esports.gg
     - +.esposasymaridos.com
     - +.esrc.ac.uk
     - +.esrcfestival.ac.uk
@@ -12366,11 +12384,13 @@ payload:
     - +.game-platform.net
     - +.game-repack.site
     - +.game735.com
+    - +.gameapps.hk
     - +.gamebase.com.tw
     - +.gamebeforethegame.com
     - +.gamebiz.jp
     - +.gamebusiness.jp
     - +.gamedownloads-rockstargames-com.akamaized.net
+    - +.gamefocus.co.kr
     - +.gamejolt.com
     - +.gameloft.com
     - +.gamelore.fun
@@ -15433,6 +15453,7 @@ payload:
     - +.ig.me
     - +.igaychat.com
     - +.igayporn.tv
+    - +.igcc.jp
     - +.igcd.net
     - +.igcdn.com
     - +.iger.ac.uk
@@ -15821,6 +15842,7 @@ payload:
     - +.inoreader.com
     - +.inote.tw
     - +.inporn.com
+    - +.inquirer.net
     - +.inquisitionspostmortem.ac.uk
     - +.insder.co
     - +.insecam.org
@@ -18700,6 +18722,7 @@ payload:
     - +.mahajantech.com
     - +.mahjongsoul.com
     - +.mahsc.ac.uk
+    - +.maidonanews.jp
     - +.maiio.net
     - +.mail-archive.com
     - +.mail.com
@@ -20038,6 +20061,7 @@ payload:
     - +.mobilevrxxx.com
     - +.mobileways.de
     - +.mobilitymoodplace.ac.uk
+    - +.mobimon.com.tw
     - +.mobmyanmar.com
     - +.moby.to
     - +.mobypicture.com
@@ -20058,6 +20082,7 @@ payload:
     - +.modrinth.com
     - +.modular.im
     - +.moeaic.gov.tw
+    - +.moedigi.com
     - +.moeero-library.com
     - +.moeerolibrary.com
     - +.moefuns.co
@@ -20679,6 +20704,7 @@ payload:
     - +.mymom.info
     - +.mymusclevideo.com
     - +.mymusic.net.tw
+    - +.mynavi.jp
     - +.mynescol.ac.uk
     - +.mynetav.net
     - +.mynetav.org
@@ -21838,7 +21864,9 @@ payload:
     - +.notary-submissions-prod.s3-accelerate.amazonaws.com
     - +.notary-submissions-prod.s3.us-west-2.amazonaws.com
     - +.note.com
+    - +.notebooklm-pa.googleapis.com
     - +.notebooklm.google
+    - +.notebooklm.googleapis.com
     - +.notepad-plus-plus.org
     - +.notify.dropboxapi.com
     - +.notify.ppy.sh
@@ -21890,6 +21918,7 @@ payload:
     - +.nowtorrents.com
     - +.nox.ac.uk
     - +.noxinfluencer.com
+    - +.noxygames.com
     - +.noypf.com
     - +.nozomi.la
     - +.npa.go.jp
@@ -22593,6 +22622,7 @@ payload:
     - +.openapiservice.com
     - +.openart.ai
     - +.openbase.com
+    - +.openbook.org.tw
     - +.opencas.io
     - +.opencollective.com
     - +.opencreate.org
@@ -24921,6 +24951,8 @@ payload:
     - +.rawgithub.com
     - +.rawstory.com
     - +.raxcdn.com
+    - +.rayark.download
+    - +.rayark.net
     - +.razer.com
     - +.razerofficial.com
     - +.razersupport.com
@@ -25232,6 +25264,7 @@ payload:
     - +.repe21.com
     - +.repo.new
     - +.repositorynet.ac.uk
+    - +.repotama.com
     - +.repsils.no
     - +.repsneakermall.com
     - +.repswing.com
@@ -27653,6 +27686,7 @@ payload:
     - +.sqhwesternconsortium.ac.uk
     - +.sqlite.org
     - +.sqlserveronlinux.com
+    - +.sqool.net
     - +.squ1.com
     - +.squadbusters.com
     - +.squarecapital.com
@@ -28586,6 +28620,7 @@ payload:
     - +.tamiaode.tk
     - +.tamilsexvideos.cc
     - +.tampabay.com
+    - +.tampermonkey.net
     - +.tamtam.chat
     - +.tamworth.ac.uk
     - +.tamworthandlichfield.ac.uk
@@ -29603,6 +29638,7 @@ payload:
     - +.toxin-up.sbs
     - +.toxinzoo.sbs
     - +.toy-cadcam.com
+    - +.toy-people.com
     - +.toycadcam.com
     - +.toyobank.co.jp
     - +.toypark.in
