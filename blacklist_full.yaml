@@ -1186,7 +1186,6 @@ payload:
     - +.adwordsexpress.com
     - +.adx.promo
     - +.ae-ad-1.myhuaweicloud.com
-    - +.ae-rus.net
     - +.ae.hao123.com
     - +.ae.org
     - +.aeasyshop.com
@@ -1206,12 +1205,9 @@ payload:
     - +.aerospace-design.com
     - +.aerospace-training-wales.ac.uk
     - +.aes.ac.uk
-    - +.aestatic.net
     - +.aesworkshops.com
     - +.aex.com
-    - +.af-east-201.myhuaweicloud.com
     - +.af-north-1.myhuaweicloud.com
-    - +.af-west-202.myhuaweicloud.com
     - +.af.mil
     - +.afantibbs.com
     - +.afao.ac.uk
@@ -1403,9 +1399,6 @@ payload:
     - +.ajsjx.com
     - +.ajtalk.com
     - +.ajunews.com
-    - +.ak-p.tripcdn.com
-    - +.ak-s-cw.tripcdn.com
-    - +.ak-s.tripcdn.com
     - +.ak1.net
     - +.aka-ai.com
     - +.aka-ai.net
@@ -1437,6 +1430,7 @@ payload:
     - +.akamai-trials.com
     - +.akamai.co.kr
     - +.akamai.net
+    - +.akamai.tvb.com
     - +.akamaiedge.net
     - +.akamaientrypoint.net
     - +.akamaietpcnctest.com
@@ -1470,7 +1464,6 @@ payload:
     - +.akasha.world
     - +.akastream.com
     - +.akastream.net
-    - +.akatest.tripcdn.com
     - +.akatns.net
     - +.akiba-online.com
     - +.akiba-souken.com
@@ -2007,7 +2000,10 @@ payload:
     - +.ankarazirvesi2018.com
     - +.anm.co.uk
     - +.annamilk.com
+    - +.annas-archive.in
+    - +.annas-archive.li
     - +.annas-archive.org
+    - +.annas-archive.pm
     - +.annas-archive.se
     - +.annatam.com
     - +.anniesland-fe.ac.uk
@@ -2092,31 +2088,19 @@ payload:
     - +.aoxx69.net
     - +.aozorabank.co.jp
     - +.ap-bangkok.myqcloud.com
-    - +.ap-bangkok.tencentcos.cn
     - +.ap-bangkok.tencentcos.com
     - +.ap-hongkong.myqcloud.com
-    - +.ap-hongkong.tencentcos.cn
     - +.ap-hongkong.tencentcos.com
     - +.ap-jakarta.myqcloud.com
-    - +.ap-jakarta.tencentcos.cn
     - +.ap-jakarta.tencentcos.com
     - +.ap-mumbai.myqcloud.com
-    - +.ap-mumbai.tencentcos.cn
     - +.ap-mumbai.tencentcos.com
-    - +.ap-northeast-201.myhuaweicloud.com
     - +.ap-seoul.myqcloud.com
-    - +.ap-seoul.tencentcos.cn
     - +.ap-seoul.tencentcos.com
     - +.ap-singapore.myqcloud.com
-    - +.ap-singapore.tencentcos.cn
     - +.ap-singapore.tencentcos.com
-    - +.ap-southeast-201.myhuaweicloud.com
-    - +.ap-southeast-202.myhuaweicloud.com
-    - +.ap-southeast-203.myhuaweicloud.com
     - +.ap-southeast-4.myhuaweicloud.com
-    - +.ap-southeast-5.myhuaweicloud.com
     - +.ap-tokyo.myqcloud.com
-    - +.ap-tokyo.tencentcos.cn
     - +.ap-tokyo.tencentcos.com
     - +.ap.org
     - +.ap0le.com
@@ -2671,10 +2655,6 @@ payload:
     - +.as-dash-uk-live.akamaized.net
     - +.as-hls-uk-live.akamaized.net
     - +.as-hp.ca
-    - +.as-south-0.myhuaweicloud.com
-    - +.as-south-201.myhuaweicloud.com
-    - +.as-south-205.myhuaweicloud.com
-    - +.as-south-207.myhuaweicloud.com
     - +.asacp.org
     - +.asagaku.com
     - +.asahi.com
@@ -3177,9 +3157,6 @@ payload:
     - +.avxlive.icu
     - +.avxxc.com
     - +.avyahoo.com
-    - +.aw-d.tripcdn.com
-    - +.aw-p.tripcdn.com
-    - +.aw-s.tripcdn.com
     - +.awabank.co.jp
     - +.awayoutgame.com
     - +.aweencore.com
@@ -3482,6 +3459,7 @@ payload:
     - +.battlefrontii.com
     - +.battlelog.com
     - +.battlenet.com
+    - +.battleye.com
     - +.bavs.ac.uk
     - +.baxsound.com
     - +.bayareabmw.com
@@ -4248,6 +4226,7 @@ payload:
     - +.binance.vision
     - +.binanceapi.com
     - +.binancecnt.com
+    - +.binanceru.net
     - +.binancezh.be
     - +.binancezh.biz
     - +.binancezh.cc
@@ -5707,10 +5686,7 @@ payload:
     - +.bypasscensorship.org
     - +.byrut.org
     - +.byspotify.com
-    - +.bytedance.map.fastly.net
-    - +.byteglb.com
     - +.byteoversea.com
-    - +.byteoversea.net
     - +.bytick.com
     - +.byzantine-ahrb-centre.ac.uk
     - +.byzantium.ac.uk
@@ -5732,7 +5708,6 @@ payload:
     - +.c4ccetl.ac.uk
     - +.c4rex.co
     - +.c4slive.com
-    - +.ca-east-201.myhuaweicloud.com
     - +.ca.file.myqcloud.com
     - +.ca.gov
     - +.caacentre.ac.uk
@@ -6099,6 +6074,7 @@ payload:
     - +.castlereagh.ac.uk
     - +.castro.fm
     - +.casualhomemadesex.com
+    - +.cataboom.com
     - +.catalina.hk
     - +.catalinacruz.com
     - +.cataloguementalhealth.ac.uk
@@ -7485,6 +7461,7 @@ payload:
     - +.conquerwithcharacter.com
     - +.conscrypt.com
     - +.conscrypt.org
+    - +.consentpro.com
     - +.conservatoiresuk.ac.uk
     - +.consilience.ac.uk
     - +.constitutionalism.solutions
@@ -7851,7 +7828,6 @@ payload:
     - +.cue.ac.uk
     - +.cuebic.biz
     - +.cuffiesaldi.com
-    - +.cuguplus.com
     - +.cuhk.edu.hk
     - +.cuhkacs.org
     - +.cuhop.ac.uk
@@ -7883,7 +7859,6 @@ payload:
     - +.cumteenporn.com
     - +.cunhua.pics
     - +.cuniq.com
-    - +.cuniq.sg
     - +.cuntcrack.com
     - +.cuntempire.com
     - +.cuntwars.com
@@ -10179,6 +10154,8 @@ payload:
     - +.encryptedsni.com
     - +.encuentroscasualesoecuador.com
     - +.encyclopedia.com
+    - +.eneba.com
+    - +.eneba.games
     - +.enema-porn.com
     - +.enema-videos.com
     - +.enemabasics.com
@@ -10571,19 +10548,12 @@ payload:
     - +.etviet.com
     - +.etvonline.hk
     - +.etwealth.com
-    - +.eu-central-201.myhuaweicloud.com
-    - +.eu-central-202.myhuaweicloud.com
     - +.eu-consumer-empowerment.com
     - +.eu-frankfurt.myqcloud.com
-    - +.eu-frankfurt.tencentcos.cn
     - +.eu-frankfurt.tencentcos.com
     - +.eu-moscow.myqcloud.com
-    - +.eu-moscow.tencentcos.cn
     - +.eu-moscow.tencentcos.com
-    - +.eu-north-201.myhuaweicloud.com
-    - +.eu-west-1.myhuaweicloud.com
     - +.eu-west-101.myhuaweicloud.com
-    - +.eu-west-201.myhuaweicloud.com
     - +.eu.org
     - +.eubluecardvisa.com
     - +.eucasino.com
@@ -12633,6 +12603,7 @@ payload:
     - +.geocities.com
     - +.geocities.jp
     - +.geodesummit.com
+    - +.geogebra.org
     - +.geohazard.ac.uk
     - +.geolytics.com
     - +.geoport.com
@@ -17560,6 +17531,7 @@ payload:
     - +.kpkuang.org
     - +.kpptoto.info
     - +.kqes.net
+    - +.kraftonde.com
     - +.kraken.com
     - +.kraken.onl
     - +.krakenjs.com
@@ -17631,7 +17603,6 @@ payload:
     - +.l-msedge.net
     - +.la-forum.org
     - +.la-mama.ru
-    - +.la-north-205.myhuaweicloud.com
     - +.lab.skk.moe
     - +.laban.ac.uk
     - +.labiennale.org
@@ -18194,6 +18165,7 @@ payload:
     - +.livemint.com
     - +.livemodels.co
     - +.livenet.ac.uk
+    - +.liveperson.net
     - +.livephotos.tv
     - +.liveporngirls.com
     - +.liveprivates.com
@@ -18440,6 +18412,7 @@ payload:
     - +.lpc.ac.uk
     - +.lpmde.ac.uk
     - +.lpsg.com
+    - +.lpsnmedia.net
     - +.lputil.com
     - +.lqh0bon3.xyz
     - +.lqpjw.cyou
@@ -19216,9 +19189,6 @@ payload:
     - +.mdx.ac.uk
     - +.mdyy.de
     - +.me-east-1.myhuaweicloud.com
-    - +.me-east-205.myhuaweicloud.com
-    - +.me-east-208.myhuaweicloud.com
-    - +.me-east-209.myhuaweicloud.com
     - +.me-gay.com
     - +.me.me
     - +.me.ns.ci
@@ -20797,16 +20767,12 @@ payload:
     - +.n3ro.wtf
     - +.n8agrifood.ac.uk
     - +.na-ashburn.myqcloud.com
-    - +.na-ashburn.tencentcos.cn
     - +.na-ashburn.tencentcos.com
     - +.na-att-idns.net
-    - +.na-east-0.myhuaweicloud.com
     - +.na-me.ac.uk
     - +.na-siliconvalley.myqcloud.com
-    - +.na-siliconvalley.tencentcos.cn
     - +.na-siliconvalley.tencentcos.com
     - +.na-toronto.myqcloud.com
-    - +.na-toronto.tencentcos.cn
     - +.na-toronto.tencentcos.com
     - +.na1r.services.adobe.com
     - +.naacoalition.org
@@ -22441,6 +22407,7 @@ payload:
     - +.okx-dns.com
     - +.okx-dns1.com
     - +.okx-dns2.com
+    - +.okx.cab
     - +.okx.com
     - +.olabloga.pl
     - +.old-cat.net
@@ -22765,6 +22732,7 @@ payload:
     - +.orzistic.org
     - +.orzqwq.com
     - +.osakamotion.net
+    - +.osano.com
     - +.osc.ac.uk
     - +.oscar.ac.uk
     - +.oscg.ac.uk
@@ -23681,6 +23649,7 @@ payload:
     - +.playapex.com
     - +.playartifact.com
     - +.playbar.biz
+    - +.playbattlegrounds.com
     - +.playbeasts.com
     - +.playboy.com
     - +.playboy.com.uk
@@ -24528,6 +24497,8 @@ payload:
     - +.ptwxz.com
     - +.ptzwx.com
     - +.pub.dev
+    - +.pubg.com
+    - +.pubg1.battleye.com
     - +.public-sex-porn.com
     - +.public-trust.com
     - +.public-us-pingsx.api.clonoth.com
@@ -25651,7 +25622,6 @@ payload:
     - +.rtm.tnt-ea.com
     - +.rtycminnesota.org
     - +.ru-moscow-1.myhuaweicloud.com
-    - +.ru-northwest-201.myhuaweicloud.com
     - +.rua-project.ac.uk
     - +.ruanyifeng.com
     - +.ruby-lang.org
@@ -25677,7 +25647,6 @@ payload:
     - +.rumah123.com
     - +.rumble.com
     - +.rumporn.com
-    - +.rumt-us.com
     - +.run.app
     - +.runbtx.com
     - +.rundf665.cyou
@@ -25761,7 +25730,6 @@ payload:
     - +.s8ds5gfm.xyz
     - +.s8forum.com
     - +.sa-saopaulo.myqcloud.com
-    - +.sa-saopaulo.tencentcos.cn
     - +.sa-saopaulo.tencentcos.com
     - +.sa.com
     - +.sa.hao123.com
@@ -25963,6 +25931,7 @@ payload:
     - +.sbuxcard.com
     - +.sc-cdn.net
     - +.sc-toolkit.ac.uk
+    - +.sc.com
     - +.sc1.ac.uk
     - +.sca-tolo.info
     - +.scaan.ac.uk
@@ -27815,7 +27784,10 @@ payload:
     - +.stamford.ac.uk
     - +.stamfordparktrust.ac.uk
     - +.standard.co.uk
+    - +.standardchartered.com
     - +.standardsuniversity.org
+    - +.standchartbank.sc.omtrdc.net
+    - +.standchartbank.tt.omtrdc.net
     - +.standupfortibet.org
     - +.standwithhk.org
     - +.stanford.edu
@@ -28853,7 +28825,6 @@ payload:
     - +.temu.com
     - +.tenacy.com
     - +.tenbyfotolia.com
-    - +.tencentcos.cn
     - +.tenor.com
     - +.tensorflow.org
     - +.tentowns.ac.uk
@@ -29096,7 +29067,6 @@ payload:
     - +.thepiratebay.ee
     - +.thepiratebay.org
     - +.theplatform.com
-    - +.thepoizon.ru
     - +.theporn.cc
     - +.thepornarea.com
     - +.thepornbest.com
@@ -30603,7 +30573,6 @@ payload:
     - +.upmg.ac.uk
     - +.upornia.com
     - +.uporno.xxx
-    - +.upos-hz-mirrorakam.akamaized.net
     - +.uproxy.org
     - +.uptodown.com
     - +.upwill.org
@@ -30629,7 +30598,6 @@ payload:
     - +.urlgalleries.net
     - +.urlparser.com
     - +.urukawa.com
-    - +.us-east-1.myhuaweicloud.com
     - +.us.to
     - +.us.weibo.com
     - +.usa-beatsbydreheadphonesonsale.net
@@ -30652,6 +30620,7 @@ payload:
     - +.usenix.org
     - +.useplannr.com
     - +.userapi.com
+    - +.usercentrics.eu
     - +.usercontent.dev
     - +.usercontent.goog
     - +.userpxt.io
@@ -32283,6 +32252,7 @@ payload:
     - +.wiki.cnitter.com
     - +.wiki.esu.im
     - +.wiki.gamerp.jp
+    - +.wiki.gg
     - +.wiki.jqueryui.com
     - +.wiki.keso.cn
     - +.wiki.kfd.me
@@ -33753,6 +33723,9 @@ payload:
     - +.youjizz.sex
     - +.youlucky.com
     - +.youmaker.com
+    - +.youmind.ai
+    - +.youmind.com
+    - +.youmind.site
     - +.young-amateur-movies.com
     - +.young-webcam.net
     - +.young-xxx.net
