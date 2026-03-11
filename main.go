@@ -56,14 +56,14 @@ func compareCIDR(a, b string) bool {
 	// 比较IP地址
 	if ipA.To4() != nil && ipB.To4() != nil {
 		// 都是IPv4，逐字节比较
-		for i := 0; i < 4; i++ {
+		for i := range 4 {
 			if ipA.To4()[i] != ipB.To4()[i] {
 				return ipA.To4()[i] < ipB.To4()[i]
 			}
 		}
 	} else if ipA.To16() != nil && ipB.To16() != nil {
 		// 都是IPv6，逐字节比较
-		for i := 0; i < 16; i++ {
+		for i := range 16 {
 			if ipA.To16()[i] != ipB.To16()[i] {
 				return ipA.To16()[i] < ipB.To16()[i]
 			}
